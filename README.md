@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Full stack (MERN) web developer
 --------------------------------------
 
-Welcome to my git portfolio! As a skilled Full Stack Developer with over 6 months of professional experience and more than 1.5 year dedicated to mastering the MERN (MongoDB, Express.js, React.js, Node.js) stack through continuous learning and personal projects, I am passionate about creating dynamic and innovative web solutions.
+Welcome to my git portfolio! As a skilled Full Stack Developer with over 1.5+ years of professional experience and more than 1 year dedicated to mastering the MERN (MongoDB, Express.js, React.js, Node.js) stack through continuous learning and personal projects, I am passionate about creating dynamic and innovative web solutions.
 
 *   🌍  I'm based in Maharashtra , Pune
 *   🖥️  See my portfolio at [MyPortfolio website](http://mywebapp-portfolio.netlify.app/)
